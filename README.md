@@ -12,6 +12,8 @@
 
 **🧭「致所有曾经迷茫的学习者：我想做你当初渴望遇到的那个引路人」**
 
+[零基础大模型学习路线速通版](https://gcn4sk03ztjz.feishu.cn/wiki/DQNnwHrwziLT5bkUXlZchuarnrg)
+
 我在公众号：**Meteor导航站**欢迎大家
 ## [一、Transformer高频面试题]()
 
