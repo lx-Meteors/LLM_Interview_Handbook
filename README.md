@@ -12,7 +12,7 @@
 
 **🧭「致所有曾经迷茫的学习者：我想做你当初渴望遇到的那个引路人」**
 
-[零基础大模型学习路线速通版](https://gcn4sk03ztjz.feishu.cn/wiki/DQNnwHrwziLT5bkUXlZchuarnrg)
+[零基础大模型学习路线速通版]([https://gcn4sk03ztjz.feishu.cn/wiki/DQNnwHrwziLT5bkUXlZchuarnrg](https://www.xiaohongshu.com/goods-detail/67c5c7a7cb5e4200017f7dcd?xsec_token=XB7FSg3MpfMuq77drje_OB5sysGXMIa_8BSBLDaXehmnQ=&xsec_source=app_share&instation_link=xhsdiscover%3A%2F%2Fgoods_detail%2F67c5c7a7cb5e4200017f7dcd%3Ftrade_ext%3DeyJjaGFubmVsSW5mbyI6bnVsbCwiZHNUb2tlbkluZm8iOm51bGwsInNoYXJlTGluayI6Imh0dHBzOi8vd3d3LnhpYW9ob25nc2h1LmNvbS9nb29kcy1kZXRhaWwvNjdjNWM3YTdjYjVlNDIwMDAxN2Y3ZGNkP2FwcHVpZD02MDM4OTVkNzAwMDAwMDAwMDEwMDFjM2IiLCJsaXZlSW5mbyI6bnVsbCwic2hvcEluZm8iOm51bGwsImdvb2RzTm90ZUluZm8iOm51bGwsImNoYXRJbmZvIjpudWxsLCJzZWFyY2hJbmZvIjpudWxsLCJwcmVmZXIiOm51bGx9%26rn%3Dtrue&xhsshare=CopyLink&appuid=603895d70000000001001c3b&apptime=1741613777&share_id=a17679532445491e82245815b7a014cd))
 
 我在公众号：**Meteor导航站**欢迎大家
 ## [一、Transformer高频面试题]()
